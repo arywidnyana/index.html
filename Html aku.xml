@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profil Saya</title>
+</head>
+<body>
+    <!-- Heading untuk nama -->
+    <h1>I Made Ary Widnyana</h1>
+
+    <!-- Paragraf deskripsi singkat -->
+    <p>
+        Saya adalah seorang mahasiswa jurusan Teknologi Informasi di Universitas Telkom Surabaya. 
+        Saya memiliki minat dalam bidang pengembangan web, kecerdasan buatan, dan teknologi berbasis VR. 
+        Selain itu, saya juga senang berbagi pengetahuan dan berkolaborasi dalam proyek teknologi yang bermanfaat.
+    </p>
+
+    <!-- Tautan ke profil media sosial -->
+    <p>
+        Kunjungi profil saya di 
+        <a href="https://github.com/arywidnyana" target="_blank">GitHub</a>.
+    </p>
+
+    <!-- Gambar yang merepresentasikan hobi -->
+    <p>Hobi saya adalah game, berikut salah satu gambarnya:</p>
+    <img src="c:\Users\I MADE ARY\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\61B5C68987F9713756FCDDF407618E52\WhatsApp Image 2025-09-28 at 21.55.59_b4a19ad5.jpg" alt="Foto Hobi" width="400">
+
+</body>
+</html>
